@@ -1,0 +1,14 @@
+div.img_mark {
+    background: url('../img/mark.jpg') no-repeat center center;
+    width: 105px;
+    height: 105px;
+    border-radius: 14px;
+    margin-right: 10px;
+    margin-bottom: 7px;
+}
+
+.vertical-align {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
